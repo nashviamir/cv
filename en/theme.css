@@ -1,0 +1,10 @@
+:root {
+    --card-color: #ffffff;
+    --bg-color: #fafafa;
+    --primary-color: #009DCE;
+    --secondary-color: #00D387;
+    --light-color: #E7F9FF;
+    --dark-color: #0E0E0E;
+    --gradient: linear-gradient(to bottom, var(--secondary-color), var(--primary-color));
+    --horizontal-gradient: linear-gradient(to left, var(--secondary-color), var(--primary-color));
+}
