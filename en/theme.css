@@ -1,8 +1,8 @@
 :root {
     --card-color: #ffffff;
     --bg-color: #fafafa;
-    --primary-color: #009DCE;
-    --secondary-color: #00D387;
+    --primary-color: #076666;
+    --secondary-color: #238F8F;
     --light-color: #E7F9FF;
     --dark-color: #0E0E0E;
     --gradient: linear-gradient(to bottom, var(--secondary-color), var(--primary-color));
