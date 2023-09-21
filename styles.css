@@ -59,6 +59,11 @@ body{
     width: 80%;
 }
 
+.d-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
 .content-center {
     justify-content: center;
 }
@@ -278,9 +283,13 @@ a {
         position: absolute
     }
 
+    .card {
+        height: 100%;
+    }
 
     .col-right {
         flex-basis: 30%;
+        
         
     }
     .col-left {
